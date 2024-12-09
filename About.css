@@ -1,0 +1,39 @@
+
+body {
+    background-color: #000000;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .about-page {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #3cc27d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+  }
+  
+  h1, h2, h3 {
+    color: #3cc27d;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    line-height: 1.6;
+    color: #c05454;
+    margin-bottom: 15px;
+  }
+  
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  h1:hover, h2:hover, h3:hover {
+    color: #007612;
+  }

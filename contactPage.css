@@ -1,0 +1,33 @@
+.contact-page {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #3cc27d;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: justify;
+  }
+  
+  .contact-page h1, .contact-page h2, .contact-page h3 {
+    color: #3cc27d;
+    margin-bottom: 10px;
+  }
+  
+  .contact-page p {
+    line-height: 1.6;
+    color: #c05454;
+    margin-bottom: 15px;
+  }
+  
+  .contact-page a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .contact-page a:hover {
+    text-decoration: underline;
+  }
+  
+  .contact-page h1:hover, .contact-page h2:hover, .contact-page h3:hover {
+    color: #007612;
+  }
